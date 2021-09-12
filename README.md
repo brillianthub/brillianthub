@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**emmamartins/emmamartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 👋 Hi, I’m @brillianthub
 - 🔭 I’m currently working on Improving Pytonik Framework
 - 🌱 I’m currently learning Module Development (Python, PHP, Ruby, JavaScript, Golang)
@@ -14,8 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/emmaessiensp)
 - 😄 Pronouns: He/Him/Leo
 - ⚡ Fun fact: When the problem is complexity, the cure might just be simplicity
-
-
 
 [![Brilliant Hub's github stats](https://github-readme-stats.vercel.app/api?username=brillianthub&show_icons=true&theme=radical)](https://github.com/brillianthub/github-readme-stats)  
 
