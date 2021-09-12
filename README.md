@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 
 
-[![Brilliant Hub's github stats](https://github-readme-stats.vercel.app/api?username=brillianthub&show_icons=true&theme=radical)](https://github.com/brillianthub/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acushlakoncept&show_icons=true&theme=radical&layout=compact)](https://github.com/acushlakoncept/github-readme-stats)
+[![Brilliant Hub's github stats](https://github-readme-stats.vercel.app/api?username=brillianthub&show_icons=true&theme=radical)](https://github.com/brillianthub/github-readme-stats)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brillianthub&show_icons=true&theme=radical&layout=compact)](https://github.com/brillianthub/github-readme-stats)
 
- <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=brillianthub&label=PROFILE+VIEWS" />
-  </p>
